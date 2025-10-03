@@ -1,0 +1,6 @@
+rpc_url: "${RPC_URL}"
+private_key_path: "~/.config/solana/id.json"
+pair: SOL-mSOL
+threshold_bps: 30
+priority_fee_microlamports: 25000
+max_capital_sol: 1.0
